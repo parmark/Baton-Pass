@@ -1,0 +1,27 @@
+{
+  "name": "baton-pass",
+  "version": "1.0.0",
+  "description": "Booru Image Quick Pose Viewer",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parmark/Baton-Pass.git"
+  },
+  "keywords": [
+    "Booru"
+  ],
+  "author": "KP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parmark/Baton-Pass/issues"
+  },
+  "homepage": "https://github.com/parmark/Baton-Pass#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.0"
+  }
+}
